@@ -18,7 +18,7 @@ body {
 header h1 {
     font-size: 3em;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 4px #000;
+    text-shadow: 2px 2px 4px #D6001C;
 }
 
 #countdown {
@@ -26,7 +26,7 @@ header h1 {
     justify-content: center;
     gap: 20px;
     font-size: 2em;
-    text-shadow: 1px 1px 3px #000;
+    text-shadow: 1px 1px 3px #00873E;
 }
 
 #countdown p {
