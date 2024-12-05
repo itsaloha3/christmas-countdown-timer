@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('https://www.creativefabrica.com/wp-content/uploads/2024/08/22/Namasleigh-Yoga-SantaFunny-Christmas-Graphics-104393323-1-580x387.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+header h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000;
+}
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 2em;
+    text-shadow: 1px 1px 3px #000;
+}
+
+#countdown p {
+    margin: 0;
+    font-size: 3em;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
